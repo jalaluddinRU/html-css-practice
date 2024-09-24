@@ -1,0 +1,78 @@
+body
+{
+    background-color: lightblue;
+}
+/* .nav
+{
+    display: flex;
+} */
+.heading
+{
+    color: darkgreen;
+    text-align: center;
+    margin-top: 50px;
+    padding: 20px;
+}
+
+.para
+{
+    text-align: center;
+    font-size: 18px;
+    color: darkgray;
+    margin-bottom:20px;
+
+}
+
+.hobby-list>li, .food-list>li, .website>li 
+{
+    margin-top: 5px;
+}
+
+
+.website>li
+{
+    list-style: none;
+}
+
+.image
+{
+    
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    border: 20px solid #d2f50b;
+    border-radius: 20px;
+}
+.image-heading
+{
+    color: darkblue;
+    text-align: center;
+    padding: 30px;
+}
+
+.image-button
+{
+    text-decoration: none;
+}
+
+/* .image-paragraph
+{
+    text-align: center;
+} */
+
+/* .image-button
+{
+    background-color: #2fe43e;
+    color: white;
+    padding: 14px 25px;
+    text-align: center;
+    text-decoration: none;
+    border-radius: 15px;
+    
+} */
+
+.website>li>a
+{
+    text-decoration: none;
+    color: rgb(245, 17, 195);
+}
